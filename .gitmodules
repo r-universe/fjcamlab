@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "deco"]
+	path = deco
+	url = https://github.com/fjcamlab/deco
+	shallow = true
+	registered = true
